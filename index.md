@@ -13,3 +13,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Turn on GitHub Page
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
