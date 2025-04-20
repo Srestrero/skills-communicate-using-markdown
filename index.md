@@ -8,3 +8,8 @@
 
 
 ![Among Us Floppa](https://i.pinimg.com/236x/d3/1f/0e/d31f0e4ea906f7854ce2995c32fae6ef.jpg)
+
+
+``` javascript
+var myVar = "Hello, world!";
+```
